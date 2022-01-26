@@ -1,0 +1,1 @@
+body{margin:0;width:100%;height:100vh;display:flex;justify-content:center;align-items:center;flex-direction:column}body #result{width:420px;height:420px;padding:40px;background-color:#f0f0f0;display:flex;flex-direction:column;flex-wrap:wrap;justify-content:center;align-items:center;gap:0}body input{margin-top:40px}
