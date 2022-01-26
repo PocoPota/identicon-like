@@ -36,7 +36,6 @@ btn.addEventListener("click",() => {
 })
 // レスポンシブ
 var windowWidth = window.innerWidth;
-console.log(windowWidth);
 if(windowWidth <= 550){
     var zoomSize = windowWidth / 530;
     document.getElementById("result").style.zoom = zoomSize;
